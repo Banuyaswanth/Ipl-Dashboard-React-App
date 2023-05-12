@@ -1,0 +1,19 @@
+.team-matches-bg-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  height: 100%;
+  padding: 25px;
+  font-family: 'Bree Serif';
+}
+
+.team-match-component-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.recent-matches-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
